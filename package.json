@@ -1,0 +1,26 @@
+{
+  "name": "alexis-profile",
+  "version": "1.0.0",
+  "description": "Alexis Hall Profile and Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexis-hall/Alexis-Profile.git"
+  },
+  "keywords": [
+    "Alexis",
+    "Hall",
+    "Technical",
+    "Project",
+    "Manager"
+  ],
+  "author": "Brandon Bates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexis-hall/Alexis-Profile/issues"
+  },
+  "homepage": "https://github.com/alexis-hall/Alexis-Profile#readme"
+}
