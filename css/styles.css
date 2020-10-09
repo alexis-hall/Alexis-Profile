@@ -138,6 +138,17 @@ header.masthead {
   font-size: 3rem;
 }
 
+.embededDoc {
+  width: 100%;
+  height: 800px;
+}
+
+.smallEmbed {
+  width: 150px;
+  height: 100px;
+
+}
+
 .footer {
   text-align: center;
   font-size: 0.9rem;
@@ -336,7 +347,7 @@ header.masthead {
 }
 #mainNav .navbar-nav .nav-item .nav-link.active{
   color:00B4D8;
-} 
+}
 
 #mainNav .navbar-nav .nav-item .nav-link:hover {
   color:00B4D8;
@@ -380,7 +391,7 @@ header.masthead {
 
 /* Portfolio Grid */
 
-#portfolio .portfolio-item {
+#portfolio .item {
   max-width: 25rem;
   margin-left: auto;
   margin-right: auto;
@@ -417,6 +428,7 @@ header.masthead {
   font-size: 1.5rem;
   font-weight: 700;
   margin-bottom: 0;
+  height: 100px;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-subheading {
   font-style: italic;
